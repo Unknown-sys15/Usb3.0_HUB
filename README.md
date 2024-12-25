@@ -26,3 +26,9 @@ For more details, you can view the schematic and PCB layout in the exported PDF:
 
 The Gerber files for manufacturing the PCB are available in the repository:  
 [View Gerber Files](Gerbers/)
+
+The Altium project files for the PCB design are available in the repository:  
+[View Altium Project Files](Altium/)
+
+### Disclaimer
+Please note that **some library files** used in this project have been omitted for simplicity. To fully open and edit the design, you may need to install or recreate the missing component libraries.
