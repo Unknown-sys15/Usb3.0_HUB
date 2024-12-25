@@ -22,4 +22,4 @@ The project includes schematics, PCB layout files, and design documentation, dem
 ## Documentation
 
 For more details, you can view the schematic and PCB layout in the exported PDF:  
-[View Altium Design (PDF)](Documentation/your_pdf_file_name.pdf)
+[View Altium Design (PDF)](UsbHub.pdf)
