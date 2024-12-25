@@ -7,5 +7,11 @@ This project features a custom-designed USB 3.0 hub based on the TUSB8041 chip f
 
 The project includes schematics, PCB layout files, and design documentation, demonstrating the integration of USB-C functionality, power management, and high-speed data communication.
 
-![photo1](SlikeUsbHub/Screenshot_2.png)
-![photo2](SlikeUsbHub/Screenshot_3.png)
+<div align="center">
+  <img src="SlikeUsbHub/Screenshot_2.png" alt="photo1">
+</div>
+<div align="center">
+  <img src="SlikeUsbHub/Screenshot_3.png" alt="photo1">
+</div>
+
+
