@@ -23,3 +23,6 @@ The project includes schematics, PCB layout files, and design documentation, dem
 
 For more details, you can view the schematic and PCB layout in the exported PDF:  
 [View Altium Design (PDF)](UsbHub.pdf)
+
+The Gerber files for manufacturing the PCB are available in the repository:  
+[View Gerber Files](Gerbers/)
