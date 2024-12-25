@@ -1,4 +1,8 @@
 # USB 3.0 Hub Design with TUSB8041
+
+## Disclaimer
+This design was created for educational purposes. While the provided files and documentation outline the design, **it may not be fully functional or suitable for production without further validation and refinements**.
+
 This project features a custom-designed USB 3.0 hub based on the TUSB8041 chip from Texas Instruments. The hub is a 4-to-1 design, allowing four downstream devices to connect via USB 3.0. Key features include:
 
 * **Input (Upstream) Connector**: A USB-C port powered by the TUSB320RWBR for USB Type-C configuration handling.
